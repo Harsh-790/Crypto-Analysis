@@ -37,7 +37,6 @@ Contains:
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
 - Jupyter Notebook
 
 ---
